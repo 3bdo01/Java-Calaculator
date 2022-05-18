@@ -1,4 +1,4 @@
-# Java-Calaculator
+# Java-Calaculator With GUI
 Java Calaculator and Matrices , Quadratic Equations
 You Can Find Source Code in src File 
 To Show Excutable file go to dist>>calc.jar 
